@@ -1,0 +1,41 @@
+body.signin{
+    background-color: aliceblue;
+}
+
+.container.signin-container{
+    margin-top: 8%;
+}
+.card.signin-card{
+    padding: 40x 0px 20px;
+    background-color: darkgray;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+img.signin-image{
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+    width: 70%;
+    
+    
+    
+}
+
+form.signin-form{
+    max-width: 350px;
+    margin: auto;
+}
+button.signin-btn{
+    margin: auto;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+a.create{
+    font-size: 1.2rem;
+    text-align: center;
+    display: block;
+    margin-top: 1rem;
+    
+}
